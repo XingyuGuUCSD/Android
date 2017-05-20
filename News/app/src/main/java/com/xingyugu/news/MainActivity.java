@@ -1,9 +1,14 @@
 package com.xingyugu.news;
 
+import android.content.Intent;
+import android.net.Uri;
+import android.support.design.widget.CoordinatorLayout;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.view.View;
 import android.widget.Toast;
 
 import com.xingyugu.news.model.GetArticlesResponse;
@@ -15,7 +20,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
     private RecyclerView newsRecyclerView;
-
+    private CoordinatorLayout coordinatorLayout;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -26,12 +31,13 @@ public class MainActivity extends AppCompatActivity {
         newsRecyclerView = (RecyclerView) findViewById(R.id.activity_main_recyclerview);
         newsRecyclerView.setLayoutManager(new LinearLayoutManager(this));
 
-
+        coordinatorLayout = (CoordinatorLayout)findViewById(R.id.activity_main);
 
         Call<GetArticlesResponse> call = NewsAPI.getApi().getArticles("espn", "top");
         call.enqueue(new Callback<GetArticlesResponse>() {
             @Override
             public void onResponse(Call<GetArticlesResponse> call, Response<GetArticlesResponse> response) {
+                showNewsApiSnack();
                 GetArticlesResponse getArticlesResponse = response.body();
                 NewsStore.setNewsArticles(getArticlesResponse.getArticles());
                 Toast.makeText(MainActivity.this, "Response received", Toast.LENGTH_SHORT).show();
@@ -45,5 +51,20 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+    }
+
+    private void showNewsApiSnack(){
+        Snackbar.make(coordinatorLayout, "Powered by NewsApi.org", Snackbar.LENGTH_LONG)
+                .setAction("Visit", new View.OnClickListener(){
+                    @Override
+                    public void onClick(View v){
+                        loadNewsApiWebsite();
+                    }
+                }).show();
+
+    }
+
+    private void loadNewsApiWebsite(){
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://newsapi.org")));
     }
 }
