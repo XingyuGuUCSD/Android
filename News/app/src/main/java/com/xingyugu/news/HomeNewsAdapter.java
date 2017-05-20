@@ -1,6 +1,7 @@
 package com.xingyugu.news;
 
 import android.media.Image;
+import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,6 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.google.firebase.analytics.FirebaseAnalytics;
 import com.xingyugu.news.model.Article;
 import com.xingyugu.news.utils.DateUtils;
 
@@ -45,6 +47,10 @@ public class HomeNewsAdapter extends RecyclerView.Adapter<HomeNewsAdapter.HomeNe
         holder.itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                FirebaseAnalytics firebaseAnalytics = FirebaseAnalytics.getInstance(v.getContext());
+                Bundle bundle = new Bundle();
+                bundle.putString("index", String.valueOf(position));
+                firebaseAnalytics.logEvent("cardClicked", bundle);
                 NewsDetailActivity.launch(v.getContext(), position);
             }
         });
