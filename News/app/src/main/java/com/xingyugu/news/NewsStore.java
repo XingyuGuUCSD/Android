@@ -1,6 +1,6 @@
 package com.xingyugu.news;
 
-import com.xingyugu.news.model.NewsArticle;
+import com.xingyugu.news.model.Article;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,13 +10,13 @@ import java.util.List;
  */
 
 public class NewsStore {
-    private static List<NewsArticle> newsArticles = new ArrayList<>();
+    private static List<Article> newsArticles = new ArrayList<>();
 
-    public static List<NewsArticle> getNewsArticles() {
+    public static List<Article> getNewsArticles() {
         return newsArticles;
     }
 
-    public static void setNewsArticles(List<NewsArticle> newsArticles) {
+    public static void setNewsArticles(List<Article> newsArticles) {
         NewsStore.newsArticles = newsArticles;
     }
 }
