@@ -39,9 +39,8 @@ public class HomeNewsAdapter extends RecyclerView.Adapter<HomeNewsAdapter.HomeNe
         Article newsArticle = newsArticles.get(position);
         Glide.with(holder.cardImageView.getContext()).load(newsArticle.getUrlToImage()).centerCrop().into(holder.cardImageView);
 
+        holder.cardTimeTextView.setText(DateUtils.formatNewsApiDate(newsArticle.getPublishedAt()));
         holder.cardTitleTextView.setText(newsArticle.getTitle());
-        //holder.cardTimeTextView.setText(DateUtils.formatNewsApiDate(newsArticle.getPublishedAt()));
-        holder.cardTimeTextView.setText(newsArticle.getPublishedAt());
 
         holder.cardContentTextView.setText(newsArticle.getDescription());
         holder.itemView.setOnClickListener(new View.OnClickListener() {
