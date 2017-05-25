@@ -18,6 +18,7 @@ Home Screen Page to Detail Page//add the click listener at the adapter object
 ![screen shot 2017-05-25 at 02 27 43](https://cloud.githubusercontent.com/assets/19834770/26444557/c5a74956-40f1-11e7-8b8c-fae5e75d8f1f.png)
 
 Downloading the news from ESPN
+
 ![screen shot 2017-05-25 at 02 36 31](https://cloud.githubusercontent.com/assets/19834770/26444885/0b5dc14a-40f3-11e7-8907-bd3ec76f50fe.png)
 
 
