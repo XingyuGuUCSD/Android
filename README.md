@@ -21,9 +21,16 @@ Downloading the news from ESPN
 
 ![screen shot 2017-05-25 at 02 36 31](https://cloud.githubusercontent.com/assets/19834770/26444885/0b5dc14a-40f3-11e7-8907-bd3ec76f50fe.png)
 
+Networking Part:
+Get ESPN news through NewsAPI.org API, which is based on REST
+Handle AsyncTask by Retrofit and Glide
+Pasring the News API Response
 
+Structure of Networking Response
+![screen shot 2017-05-25 at 10 08 55](https://cloud.githubusercontent.com/assets/19834770/26461525/370310cc-4132-11e7-8c2d-7fc6d914556f.png)
+Use GSON to parse JSON
 
-
-
+Steps of Using Retrofit
+![screen shot 2017-05-25 at 10 39 13](https://cloud.githubusercontent.com/assets/19834770/26462640/72441d30-4136-11e7-9a79-0282cf93236b.png)
 
 
