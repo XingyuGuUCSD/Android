@@ -34,6 +34,3 @@ Steps of Using Retrofit
 
 ![screen shot 2017-05-25 at 10 39 13](https://cloud.githubusercontent.com/assets/19834770/26462640/72441d30-4136-11e7-9a79-0282cf93236b.png)
 
-Source Reference:
-https://www.udemy.com/learning-path-android-test-driven-android-app-development
-
