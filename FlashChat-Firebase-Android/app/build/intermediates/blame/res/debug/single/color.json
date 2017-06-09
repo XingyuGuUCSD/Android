@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/baf995af0de9405007126583f5f30c4c1fc758a1/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/012f9600e1adf64772e8cad1dd20408e6d163d72/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/012f9600e1adf64772e8cad1dd20408e6d163d72/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/baf995af0de9405007126583f5f30c4c1fc758a1/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/color/abc_primary_text_material_light.xml"
+    }
+]

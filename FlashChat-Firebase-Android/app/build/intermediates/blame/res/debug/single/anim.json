@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/anim/design_snackbar_out.xml"
+    }
+]

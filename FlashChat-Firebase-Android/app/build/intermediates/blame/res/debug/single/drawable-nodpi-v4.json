@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/background_login_min.jpg",
+        "source": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/src/main/res/drawable-nodpi/background_login_min.jpg"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/background_welcome_min.jpg",
+        "source": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/src/main/res/drawable-nodpi/background_welcome_min.jpg"
+    }
+]

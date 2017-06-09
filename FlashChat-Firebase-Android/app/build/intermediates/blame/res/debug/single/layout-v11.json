@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

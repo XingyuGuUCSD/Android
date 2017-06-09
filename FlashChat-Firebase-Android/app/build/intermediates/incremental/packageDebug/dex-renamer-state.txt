@@ -1,0 +1,7 @@
+#Fri Jun 09 16:10:24 PDT 2017
+base.0=/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_03659bfc556a5c7a0910068f4d3ad837cef2fa5e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08e7de5d640ec371ac89ea660842bc2c1a18e79d/classes.dex
+base.1=/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08e7de5d640ec371ac89ea660842bc2c1a18e79d
+file.0=/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_03659bfc556a5c7a0910068f4d3ad837cef2fa5e/classes.dex

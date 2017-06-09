@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]
