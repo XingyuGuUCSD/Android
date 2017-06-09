@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/cb331e3cc2a162d8526b8a57e6b079f336745ffd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_4a432301afd0acd77f12c3969d112e22a243687c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_4b29e7c601c00755f1addc114e5bff0974833731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/0d3ba21199cc67b47139397cd6efe36a1b3bb9f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_eec35b7373c9ae39d7ffb38c25740a561278159e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/5a4ca9ece3bdb3dd97504b2b6999e66efa799172/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_d3b63d77ee93d3d35c38e716d412f9eb27c7ce1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/012f9600e1adf64772e8cad1dd20408e6d163d72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_edbd7f5b3b018d58a9928ad0d92f2c5ebd0d23ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/b42489c517f3627cbbec7f73dfbfb789d2ddb3c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_1241a66817eb2d4a8060f916456164eda74dd82b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/174f38472f8a6d6c787bde2ddde2c53fdb8579e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_22242eafc9c13aded4b81299b0373d8de8496829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/233ef114bd2ed5ff6956fc98fff00c414f71a729/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_d1a5382df2479a6c0c8803a9ed5f4ca747fec383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/358cc420db9af2fd9d71458b3ca304ab9efce461/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_d60aef05184d0ac44d0b370345e04525c4616be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/248110aeea835a1e653ec976dd19243956ebf012/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_4eb2d5068054e347cf7053066708e39413994b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/b8508f96ea121d815dfb47aa88af01b59fb72d52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_6c07fe718db62e9f9f37d2363ad72ad2f695e733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/cc5aaaa5f7e4b42621f30296ff70639d25cfdcee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_7c51852676a81279d2cfc6a075128bf27e9613cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/229e6e7ca78d78adb0a026da5a1522ecba4802b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_c69e9ac14c1696d9fcc4e491dbbea9f28027e8bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/c596ec21a19f87897f750e6d23b536a740ac697b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_23650e37b628afa95b80fd3d73d06aadfe92ee8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/d5e092b733ca24ecae3cf3eb27d4f9dbf0f2e466/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_8664023f4165dc0f38746d171c57672d5b6880b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/35bd8df3aeb43a94703387c64f9da90cb6d63f5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_c51a90f1260df104b3a1179cd243a15b95aa78c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/3e94324d48450381a135293758b48dffa27e8885/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_5387102b486ef80eadb80ab01d3e134c2d68558d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/46550af908fe9770d92902cbd21806bfbb8d02fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_ddf4f99432b6d7aec76130a66bd0f3e595c24b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/160923c73d072c789cc31ed9efb02cab1ec6fab0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_a6b4efdbae26dce30782aeb098d8d2777f9cd6cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/4b28c0d02ae7d1972916ae86dc08ba67296f86ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_b10898a6d318987bd309e46d71cfb7b91fce21d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/75799ed34c74435e425d4be4400464e709c3b328/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_606b2454bcbe5dba9133528992a3e9737ba31e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/667e270dcf2908b58566ecb56b34f2ed64b463e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_15cbcd706bb81d5f55bade7d2d5409ced419caf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/a1e437083876714ac2e3ef8980b1b4a3ad11d356/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_934e5a4ab9a338631b84550d12c3c31271818e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/b32fbb3c6be2346303f7b16dd3bba13ec978622f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_9c65933f672dde81f79e1c40ad067a9a7b4e19ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/XingyuGU/.android/build-cache/0a9cd0f1b1604ac1943264486e1f593e4a91dd91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/XingyuGU/Desktop/Android/FlashChat-Firebase-Android/app/build/intermediates/pre-dexed/debug/classes_3a509d294db505174694cc9eaa4c0b0eb5dd1d78.jar" />
+    </item>
+
+</items>
